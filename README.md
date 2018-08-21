@@ -6,6 +6,7 @@ collects requests of ohter code modules and process reuests in order.
 
 after main code calls "f_sys_fram__STARTUP();" code starts run with
 periodic call "f_sys_fram_MAIN_TASK_1ms_base();" at main loop.
+see "main.c" file of program.
 
 example request from other modules:
 
